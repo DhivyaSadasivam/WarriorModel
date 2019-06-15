@@ -10,5 +10,6 @@ namespace WarriorModel
         {
             return Name + " saving the world with " + Weapon;
         }
+        public string Check { get; set; }
     }
 }
